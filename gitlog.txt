@@ -1,0 +1,35 @@
+commit 28bcc09daba297d03cdf74cbd7c496dc38fa0779
+Author: spencer <spencernhamilton@gmail.com>
+Date:   Mon Jan 30 20:12:44 2023 -0700
+
+    I, Ran Duan certify that I participated equally on C06A on 1/30/2023
+
+commit 4a318881b3a4264f00effe5474025929146aa43d
+Author: spencer <spencernhamilton@gmail.com>
+Date:   Mon Jan 30 20:03:29 2023 -0700
+
+    updateTemperature function finished
+
+commit 48b0d40ee19e5bde8a05efa61ee17a89bc5338f2
+Author: spencer <spencernhamilton@gmail.com>
+Date:   Mon Jan 30 20:00:54 2023 -0700
+
+    finishing updateTemp
+
+commit 2182fbec55dc3fc3e71053cafb22b287d893233b
+Author: spencer <spencernhamilton@gmail.com>
+Date:   Mon Jan 30 13:16:26 2023 -0700
+
+    Created enum types and classes, some methods need to be implemented
+
+commit e06cce59b58d57db292613b8ff5521150d5d0990
+Author: spencer <spencernhamilton@gmail.com>
+Date:   Sun Jan 29 14:14:47 2023 -0700
+
+    added project files
+
+commit f0be42ea3a4f7d8bcdb32860b2015e346f168f8c
+Author: spencer <spencernhamilton@gmail.com>
+Date:   Sun Jan 29 14:12:41 2023 -0700
+
+    ignore file
