@@ -63,16 +63,16 @@ public class Stove {
      * *** You must write the following method ****
      */
     public void displayStove() {
+
+        for (int i = 0; i < NUM_BURNERS; i++)
+            burners.get(i).display();
         for (int i = 0; i < NUM_BURNERS; i++) {
-            System.out.println(burners.get(i).getTemperature());
+            //System.out.println(burners.get(i).getTemperature());
             if (burners.get(i).getTemperature() == Burner.Temperature.BLAZING) {
                 System.out.println("RED LIGHT - HOT BURNER ALERT");
                 break;
             }
         }
-        for (int i = 0; i < NUM_BURNERS; i++)
-            burners.get(i).display();
-
     }
 
     /**

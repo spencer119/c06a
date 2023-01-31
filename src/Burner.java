@@ -53,6 +53,7 @@ public class Burner {
     }
 
     public void updateTemperature() {
+        timer--;
         if (timer == 0) {
             switch (myTemperature) {
                 case COLD:
@@ -90,7 +91,7 @@ public class Burner {
                 default:
                     break;
             }
-        } else timer = timer - 1;
+        }
     }
 
     public void display() {
